@@ -46,9 +46,12 @@ To solve this:
 ---
 
 ## Insights
-- Data Analyst roles had the highest number of job postings
-- Tableau appears frequently as a required skill across multiple roles
-- Higher experience levels generally correspond to higher salaries
+
+- Data Analyst roles accounted for the largest share of job postings in the dataset
+- Tableau appeared frequently as a required skill across multiple data roles
+- Total job postings analyzed: 1,298  
+- Total applicants: 27,335  
+- Salary levels generally increased with higher experience requirements
 
 ---
 
